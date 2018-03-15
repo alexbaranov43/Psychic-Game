@@ -4,21 +4,6 @@ var guessRemaining = 9;
 
 var keysPressed = [];
 
-import sun.audio.*;
-
-public class Sound {
-    public static void main(String[] args)
-    {
-
-
-    }
-
-public static void music ()
-{
-
-    
-}
-}
 
 document.onkeyup = function (event) {
 
